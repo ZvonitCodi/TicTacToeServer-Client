@@ -70,12 +70,3 @@ This project is a client-server implementation of the classic Tic-Tac-Toe game w
 - **MySQL**: Database for storing user data and game statistics.
 
 ---
-
-## Future Improvements
-- Add multiplayer functionality.
-- Implement advanced AI for the server.
-- Introduce customizable themes and sound effects.
-
----
-
-Feel free to contribute to this project by submitting issues and pull requests!
